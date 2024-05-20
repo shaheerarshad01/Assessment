@@ -1,0 +1,78 @@
+[
+  {
+    "id": "1",
+    "name": "Phones",
+    "children": [
+      {
+        "id": "1-1",
+        "name": "Apple",
+        "children": [
+          {
+            "id": "1-1-1",
+            "name": "iPhone 8",
+            "children": [
+              { "id": "1-1-1-1", "name": "128 GB" },
+              { "id": "1-1-1-2", "name": "256 GB" }
+            ]
+          },
+          {
+            "id": "1-1-2",
+            "name": "iPhone X",
+            "children": [
+              { "id": "1-1-2-1", "name": "128 GB" },
+              { "id": "1-1-2-2", "name": "256 GB" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1-2",
+        "name": "Nokia",
+        "children": [
+          {
+            "id": "1-2-1",
+            "name": "Nokia 3310",
+            "children": [
+              { "id": "1-2-1-1", "name": "32 MB" },
+              { "id": "1-2-1-2", "name": "64 MB" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Watches",
+    "children": [
+      {
+        "id": "2-1",
+        "name": "Apple",
+        "children": [
+          {
+            "id": "2-1-1",
+            "name": "Apple Watch Series 3",
+            "children": [
+              { "id": "2-1-1-1", "name": "38 mm" },
+              { "id": "2-1-1-2", "name": "42 mm" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+    {
+    "id": "3",
+    "name": "TV",
+    "children": [
+   
+    ]
+  },
+    {
+    "id": "4",
+    "name": "Computers",
+    "children": [
+     
+    ]
+  }
+]
